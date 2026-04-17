@@ -5,7 +5,9 @@ It is provided strictly for viewing purposes only and must not be redistributed 
 
 This project is intended exclusively for systems based on:
 - One UI UN1CA 3.0.X  
-- MintOS 1.1.X  
+- MintOS 1.1.X
+
+for Galaxy S20 FE (r8q)
 
 **Technical Information**
 
